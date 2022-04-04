@@ -12,7 +12,7 @@
 
 const images = [
   /* [x_location, y_location, scale, image_url] */
-  [1600, 799, 1, "https://hicham-belhseine.github.io/rplace-flag/images/morocco_place_defend.png"]
+  [1600, 798, 1, "https://hicham-belhseine.github.io/rplace-flag/images/morocco_place_defend.png"]
 ]
 
 
